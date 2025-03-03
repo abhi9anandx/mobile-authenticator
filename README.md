@@ -1,27 +1,42 @@
-📱 Mobile Authenticator
+# 📱 Mobile Authenticator
+
 A React + Firebase mobile number authentication system with OTP verification and reCAPTCHA security.
 
-🚀 Features
+## 🚀 Features
+
 ✅ Mobile number authentication using Firebase Auth
+
 ✅ OTP (One-Time Password) verification
+
 ✅ Google reCAPTCHA for security
+
 ✅ User-friendly UI for easy login/signup
+
 ✅ Error handling for invalid inputs
 
-🛠 Technologies Used
+
+## 🛠 Technologies Used
+
 Frontend: React.js
+
 Backend: Firebase Authentication
+
 Security: Google reCAPTCHA
+
 Styling: CSS
 
 
-📌 Installation
+
+## 📌 Installation
+
 1️⃣ Clone the Repository
     git clone https://github.com/abhi9anandx/mobile-authenticator.git
     cd mobile-authenticator
+    
 
 2️⃣ Install Dependencies
     npm install
+    
 
 3️⃣ Configure Firebase
     Go to Firebase Console
